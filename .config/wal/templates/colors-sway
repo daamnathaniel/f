@@ -1,0 +1,22 @@
+set $wallpaper {wallpaper}
+
+set $background {background}AA
+set $foreground {foreground}
+set $focused_background {color0}AA
+
+set $co0 {color0}
+set $co1 {color1}
+set $co2 {color2}
+set $co3 {color3}
+set $co4 {color4}
+set $co5 {color5}
+set $co6 {color6}
+set $co7 {color7}
+set $co8 {color8}
+set $co9 {color9}
+set $co10 {color10}
+set $co11 {color11}
+set $co12 {color12}
+set $co13 {color13}
+set $co14 {color14}
+set $co15 {color15}
